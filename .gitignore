@@ -1,0 +1,8 @@
+# Si pubblica solo il sito: ricerca, brief e screenshot restano in locale
+/*
+!/.gitignore
+!/.nojekyll
+!/*.html
+!/css/
+!/js/
+!/img/
